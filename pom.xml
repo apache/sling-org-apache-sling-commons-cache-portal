@@ -37,9 +37,9 @@
     </description>
 
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/sling/contrib/extensions/cache/portal</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/contrib/extensions/cache/portal</developerConnection>
-        <url>http://svn.apache.org/viewvc/sling/contrib/extensions/cache/portal</url>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-commons-cache-portal.git</conncetion>
+        <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-commons-cache-portal.git</developerConnection>
+        <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-commons-cache-portal.git</url>
     </scm>
     
 
